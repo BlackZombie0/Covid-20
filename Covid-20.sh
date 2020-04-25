@@ -1,5 +1,10 @@
 #!/bin/bash
 # Covid-20 v1.0
+# youtube : FR13NDS DZ
+# facebook : Phoenix Pw
+# github : PHOENIX7713
+# twitter : ShadowDz5
+# instagram : zodiac2372
 # Coded by: https://github.com/PHOENIX7713
 # Read the License before using any part from this code.
 
@@ -8,6 +13,9 @@ trap 'printf "\n";stop' 2
 banner() {
 
 printf " \n\e[1;77m coded by: https://github.com/PHOENIX7713\e[0m \n"
+printf " \n\e[1;77m youtube : FR13NDS DZ\e[0m \n"
+printf " \n\e[1;77m twitter : ShadowDz5\e[0m \n"
+printf " \n\e[1;77m instagram : zodiac2372\e[0m \n"
 printf "\n\n\n\e[1;91m Disclaimer: this tool is designed for security\n"
 printf " testing in an authorized simulated cyberattack\n"
 printf " Attacking targets without prior mutual consent\n"
