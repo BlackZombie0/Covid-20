@@ -11,8 +11,20 @@
 
 trap 'printf "\n";stop' 2
 
-banner() {
+banner() 
 
+{
+printf " \n\e[1;77m  _______  _______          _________ ______        _______  _______ \e[0m \n"
+printf " \n\e[1;77m (  ____ \(  ___  )|\     /|\__   __/(  __  \      / ___   )(  __   )\e[0m \n"
+printf " \n\e[1;77m | (    \/| (   ) || )   ( |   ) (   | (  \  )     \/   )  || (  )  |\e[0m \n"
+printf " \n\e[1;77m | |      | |   | || |   | |   | |   | |   ) | _____   /   )| | /   |\e[0m \n"
+printf " \n\e[1;77m | |      | |   | |( (   ) )   | |   | |   | |(_____)_/   / | (/ /) |\e[0m \n"
+printf " \n\e[1;77m | |      | |   | | \ \_/ /    | |   | |   ) |      /   _/  |   / | |\e[0m \n"
+printf " \n\e[1;77m | (____/\| (___) |  \   /  ___) (___| (__/  )     (   (__/\|  (__) |\e[0m \n"
+printf " \n\e[1;77m (_______/(_______)   \_/   \_______/(______/      \_______/(_______)\e[0m \n"
+printf " \n\e[1;77m                                                                    \e[0m \n"
+
+                                                     
 printf " \n\e[1;77m Coded by : Moussa with my love Narj Ess\e[0m \n"
 printf " \n\e[1;77m Coded by: https://github.com/PHOENIX7713\e[0m \n"
 printf " \n\e[1;77m youtube : FR13NDS DZ\e[0m \n"
