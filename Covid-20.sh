@@ -1,5 +1,6 @@
 #!/bin/bash
 # Covid-20 v1.0
+# Coded by : Moussa with my love Narj Ess
 # youtube : FR13NDS DZ
 # facebook : Phoenix Pw
 # github : PHOENIX7713
