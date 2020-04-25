@@ -13,7 +13,8 @@ trap 'printf "\n";stop' 2
 
 banner() {
 
-printf " \n\e[1;77m coded by: https://github.com/PHOENIX7713\e[0m \n"
+printf " \n\e[1;77m Coded by : Moussa with my love Narj Ess\e[0m \n"
+printf " \n\e[1;77m Coded by: https://github.com/PHOENIX7713\e[0m \n"
 printf " \n\e[1;77m youtube : FR13NDS DZ\e[0m \n"
 printf " \n\e[1;77m twitter : ShadowDz5\e[0m \n"
 printf " \n\e[1;77m instagram : zodiac2372\e[0m \n"
