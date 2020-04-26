@@ -3,7 +3,7 @@
 # Coded by : Moussa with my love Narj Ess
 # youtube : FR13NDS DZ
 # facebook : Phoenix Pw
-# github : PHOENIX7713
+# github :PHOENIX7713
 # twitter : ShadowDz5
 # instagram : zodiac2372
 # Coded by: https://github.com/PHOENIX7713
@@ -13,23 +13,23 @@ trap 'printf "\n";stop' 2
 
 banner() 
 
-{
-printf " \n\e[1;77m  _______  _______          _________ ______        _______  _______ \e[0m \n"
-printf " \n\e[1;77m (  ____ \(  ___  )|\     /|\__   __/(  __  \      / ___   )(  __   )\e[0m \n"
-printf " \n\e[1;77m | (    \/| (   ) || )   ( |   ) (   | (  \  )     \/   )  || (  )  |\e[0m \n"
-printf " \n\e[1;77m | |      | |   | || |   | |   | |   | |   ) | _____   /   )| | /   |\e[0m \n"
-printf " \n\e[1;77m | |      | |   | |( (   ) )   | |   | |   | |(_____)_/   / | (/ /) |\e[0m \n"
-printf " \n\e[1;77m | |      | |   | | \ \_/ /    | |   | |   ) |      /   _/  |   / | |\e[0m \n"
-printf " \n\e[1;77m | (____/\| (___) |  \   /  ___) (___| (__/  )     (   (__/\|  (__) |\e[0m \n"
-printf " \n\e[1;77m (_______/(_______)   \_/   \_______/(______/      \_______/(_______)\e[0m \n"
-printf " \n\e[1;77m                                                                    \e[0m \n"
+{   
+    printf " \n\e[1;31m   _______  _______             _________  ______        _______  _______\e[0m \n"
+    printf " \n\e[1;34m  (  ____ \ (  ___  ) |\     /| \__   __/ (  __  \      / ___   )(  __   )\e[0m \n"
+    printf " \n\e[1;34m  | (    \/ | (   ) | | )   ( |    ) (    | (  \  )     \/   )  || (  )  |\e[0m \n"
+    printf " \n\e[1;34m  | |       | |   | | | |   | |    | |    | |   ) |  _____   / )|| /     |\e[0m \n"
+    printf " \n\e[1;34m  | |       | |   | | ( (   ) )    | |    | |   | | (_____)_/  / | (/ /) |\e[0m \n"
+    printf " \n\e[1;34m  | |       | |   | |  \ \_/ /     | |    | |   ) |      /   _/  |   / | |\e[0m \n"
+    printf " \n\e[1;34m  | (____/\ | (___) |   \   /   ___) (___ | (__/  )     (   (__/\|  (__) |\e[0m \n"
+    printf " \n\e[1;31m  (_______/ (_______)    \_/    \_______/ (______/      \_______/(_______)\e[0m \n"
+    printf " \n\e[1;34m        MOUSSA-COVID-20- We are a team : FR13NDS-Algeria Millia       \e[0m \n"
 
                                                      
-printf " \n\e[1;77m Coded by : Moussa with my love Narj Ess\e[0m \n"
+printf " \n\e[1;31m Coded by : Moussa with my love Narj Ess\e[0m \n"
 printf " \n\e[1;77m Coded by: https://github.com/PHOENIX7713\e[0m \n"
-printf " \n\e[1;77m youtube : FR13NDS DZ\e[0m \n"
+printf " \n\e[1;34m youtube : FR13NDS DZ\e[0m \n"
 printf " \n\e[1;77m twitter : ShadowDz5\e[0m \n"
-printf " \n\e[1;77m instagram : zodiac2372\e[0m \n"
+printf " \n\e[1;32m instagram : zodiac2372\e[0m \n"
 printf "\n\n\n\e[1;91m Disclaimer: this tool is designed for security\n"
 printf " testing in an authorized simulated cyberattack\n"
 printf " Attacking targets without prior mutual consent\n"
