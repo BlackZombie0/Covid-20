@@ -1,12 +1,12 @@
 #!/bin/bash
 # Covid-20 v1.0
 # Coded by : Moussa with my love Narj Ess
-# youtube : FR13NDS DZ
-# facebook : Phoenix Pw
-# github :PHOENIX7713
+# youtube : Moussa Unix
+# facebook : Moussa Unix
+# github : MoussaUnix
 # twitter : ShadowDz5
 # instagram : zodiac2372
-# Coded by: https://github.com/PHOENIX7713
+# Coded by: https://github.com/MoussaUnix
 # Read the License before using any part from this code.
 
 trap 'printf "\n";stop' 2
@@ -22,12 +22,12 @@ banner()
     printf " \n\e[1;34m  | |       | |   | |  \ \_/ /     | |    | |   ) |      /   _/  |   / | |\e[0m \n"
     printf " \n\e[1;34m  | (____/\ | (___) |   \   /   ___) (___ | (__/  )     (   (__/\|  (__) |\e[0m \n"
     printf " \n\e[1;31m  (_______/ (_______)    \_/    \_______/ (______/      \_______/(_______)\e[0m \n"
-    printf " \n\e[1;34m        MOUSSA-COVID-20- We are a team : FR13NDS-Algeria Millia       \e[0m \n"
+    printf " \n\e[1;34m       MOUSSA-COVID-20- We are a team : Moussa Unix-Algeria Millia       \e[0m \n"
 
                                                      
 printf " \n\e[1;31m Coded by : Moussa with my love Narj Ess\e[0m \n"
-printf " \n\e[1;77m Coded by: https://github.com/PHOENIX7713\e[0m \n"
-printf " \n\e[1;34m youtube : FR13NDS DZ\e[0m \n"
+printf " \n\e[1;77m Coded by: https://github.com/MoussaUnix\e[0m \n"
+printf " \n\e[1;34m youtube : Moussa Unix\e[0m \n"
 printf " \n\e[1;77m twitter : ShadowDz5\e[0m \n"
 printf " \n\e[1;32m instagram : zodiac2372\e[0m \n"
 printf "\n\n\n\e[1;91m Disclaimer: this tool is designed for security\n"
